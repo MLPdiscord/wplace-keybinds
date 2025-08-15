@@ -11,4 +11,4 @@ For instructions on how to install tampermonkey userscripts: [](https://www.tamp
 1. Select a color with a bind
 2. Press the equals sign
 
-!(Example image)[https://github.com/MLPdiscord/wplace-keybinds/blob/main/a.png]
+![Example image](https://github.com/MLPdiscord/wplace-keybinds/blob/main/a.png)
