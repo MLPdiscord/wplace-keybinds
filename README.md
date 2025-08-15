@@ -10,3 +10,5 @@ For instructions on how to install tampermonkey userscripts: [](https://www.tamp
 # How to remove binds
 1. Select a color with a bind
 2. Press the equals sign
+
+!(Example image)[a.png]
